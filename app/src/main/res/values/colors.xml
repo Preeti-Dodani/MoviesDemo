@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_light">#E6E6E6</color>
+    <color name="view_background_color">#FFEBEE</color>
+    <color name="text_color_light">#BDBDBD</color>
+    <color name="white_shade">#f5f5f5</color>
+    <color name="color_graylight">#a9a9a9</color>
+    <color name="color_gray_light">#e4e4e4</color>
+
+
+
+
+
+    <color name="gray_cream">#e6e6e6</color>
+    <color name="gray_light1">#7f7f7f</color>
+
+</resources>
