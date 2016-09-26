@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_movies_list);
+        Log.d("code updated","movies");
         mContext=MainActivity.this;
         mListViewMovies=(ListView)findViewById(R.id.listViewMovies);
         mtextviewScreenTitle=(TextView)findViewById(R.id.textViewScreentitle);
